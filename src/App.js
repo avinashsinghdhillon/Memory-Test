@@ -5,10 +5,16 @@ import Gameboard from "./components/Gameboard"
 import Clicky from "./components/Clicky";
 import Footer from "./components/Footer";
 
+clickyList=[
+  {
+    id: 1,
+    name: 
+  }
+]
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <Navbar />
       {/* <Header />
       <Gameboard>

@@ -2,7 +2,7 @@
   "name": "memorytest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/avinashsinghdhillon/Memory-Test",
+  "homepage": "https://avinashsinghdhillon.github.io/Memory-Test",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

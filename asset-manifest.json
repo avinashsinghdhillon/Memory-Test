@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https://github.com/avinashsinghdhillon/Memory-Test/static/css/main.03fc38f8.chunk.css",
-    "main.js": "/https://github.com/avinashsinghdhillon/Memory-Test/static/js/main.3387c042.chunk.js",
-    "main.js.map": "/https://github.com/avinashsinghdhillon/Memory-Test/static/js/main.3387c042.chunk.js.map",
-    "runtime~main.js": "/https://github.com/avinashsinghdhillon/Memory-Test/static/js/runtime~main.d92a35d3.js",
-    "runtime~main.js.map": "/https://github.com/avinashsinghdhillon/Memory-Test/static/js/runtime~main.d92a35d3.js.map",
-    "static/js/2.6efc73d3.chunk.js": "/https://github.com/avinashsinghdhillon/Memory-Test/static/js/2.6efc73d3.chunk.js",
-    "static/js/2.6efc73d3.chunk.js.map": "/https://github.com/avinashsinghdhillon/Memory-Test/static/js/2.6efc73d3.chunk.js.map",
-    "index.html": "/https://github.com/avinashsinghdhillon/Memory-Test/index.html",
-    "precache-manifest.ea99c6fa64f13b17476f1db3048f3084.js": "/https://github.com/avinashsinghdhillon/Memory-Test/precache-manifest.ea99c6fa64f13b17476f1db3048f3084.js",
-    "service-worker.js": "/https://github.com/avinashsinghdhillon/Memory-Test/service-worker.js",
-    "static/css/main.03fc38f8.chunk.css.map": "/https://github.com/avinashsinghdhillon/Memory-Test/static/css/main.03fc38f8.chunk.css.map"
+    "main.css": "/avinashsinghdhillon/Memory-Test/static/css/main.03fc38f8.chunk.css",
+    "main.js": "/avinashsinghdhillon/Memory-Test/static/js/main.deec3600.chunk.js",
+    "main.js.map": "/avinashsinghdhillon/Memory-Test/static/js/main.deec3600.chunk.js.map",
+    "runtime~main.js": "/avinashsinghdhillon/Memory-Test/static/js/runtime~main.557a58e2.js",
+    "runtime~main.js.map": "/avinashsinghdhillon/Memory-Test/static/js/runtime~main.557a58e2.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/avinashsinghdhillon/Memory-Test/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/avinashsinghdhillon/Memory-Test/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/avinashsinghdhillon/Memory-Test/index.html",
+    "precache-manifest.a024f707477d726b884ba813b7461061.js": "/avinashsinghdhillon/Memory-Test/precache-manifest.a024f707477d726b884ba813b7461061.js",
+    "service-worker.js": "/avinashsinghdhillon/Memory-Test/service-worker.js",
+    "static/css/main.03fc38f8.chunk.css.map": "/avinashsinghdhillon/Memory-Test/static/css/main.03fc38f8.chunk.css.map"
   }
 }

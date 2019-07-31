@@ -3,7 +3,13 @@
   background-size: contain;
   background-color: plum;
   text-align: center;
-  padding-top: 30px;
+  padding: 180px 20px;
   padding-bottom: 75px;
   color: purple;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.title {
+  font-size: 50px;
 }

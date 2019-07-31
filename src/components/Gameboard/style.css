@@ -1,8 +1,16 @@
 .gameBoard {
-  width: 90%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   padding-top: 50px;
   padding-bottom: 50px;
+  margin: 0 auto;
+}
+
+@media(min-width: 900px){
+  .gameBoard {
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 900px;
+  }
 }

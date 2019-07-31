@@ -1,6 +1,12 @@
 .footer {
+  display:flex;
   background-color: purple;
   font-weight: 700;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 100px;
+}
+.logo {
+  width: 50px;
+  margin-top: -30px;
+  border: none;
 }

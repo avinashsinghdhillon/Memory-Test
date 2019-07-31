@@ -4,3 +4,9 @@ img {
   border: 5px solid purple;
   margin: 8px 25px;
 }
+
+.img-thumbnail:hover {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transition: .1s;
+}

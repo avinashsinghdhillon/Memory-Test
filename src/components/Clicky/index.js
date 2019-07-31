@@ -3,12 +3,12 @@ import "./style.css";
 
 function Clicky(props) {
   return (
-    <div>
+    <div className="img-thumbnail">
       <img
         alt={props.name}
         src={props.image} 
-        onClick={() => props.tagPic(props.id)} 
-        className="img-thumbnail"/>
+        onClick={() => props.tagPic(props.id)}
+      />
     </div>
   );
 }

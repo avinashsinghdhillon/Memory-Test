@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/avinashsinghdhillon/Memory-Test/static/css/main.03fc38f8.chunk.css",
-    "main.js": "/avinashsinghdhillon/Memory-Test/static/js/main.deec3600.chunk.js",
-    "main.js.map": "/avinashsinghdhillon/Memory-Test/static/js/main.deec3600.chunk.js.map",
-    "runtime~main.js": "/avinashsinghdhillon/Memory-Test/static/js/runtime~main.557a58e2.js",
-    "runtime~main.js.map": "/avinashsinghdhillon/Memory-Test/static/js/runtime~main.557a58e2.js.map",
-    "static/js/2.6efc73d3.chunk.js": "/avinashsinghdhillon/Memory-Test/static/js/2.6efc73d3.chunk.js",
-    "static/js/2.6efc73d3.chunk.js.map": "/avinashsinghdhillon/Memory-Test/static/js/2.6efc73d3.chunk.js.map",
-    "index.html": "/avinashsinghdhillon/Memory-Test/index.html",
-    "precache-manifest.a024f707477d726b884ba813b7461061.js": "/avinashsinghdhillon/Memory-Test/precache-manifest.a024f707477d726b884ba813b7461061.js",
-    "service-worker.js": "/avinashsinghdhillon/Memory-Test/service-worker.js",
-    "static/css/main.03fc38f8.chunk.css.map": "/avinashsinghdhillon/Memory-Test/static/css/main.03fc38f8.chunk.css.map"
+    "main.css": "/Memory-Test/static/css/main.03fc38f8.chunk.css",
+    "main.js": "/Memory-Test/static/js/main.423fa813.chunk.js",
+    "main.js.map": "/Memory-Test/static/js/main.423fa813.chunk.js.map",
+    "runtime~main.js": "/Memory-Test/static/js/runtime~main.2fa2eaaf.js",
+    "runtime~main.js.map": "/Memory-Test/static/js/runtime~main.2fa2eaaf.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/Memory-Test/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/Memory-Test/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/Memory-Test/index.html",
+    "precache-manifest.23de15f0c182b1118ee646ea683d7303.js": "/Memory-Test/precache-manifest.23de15f0c182b1118ee646ea683d7303.js",
+    "service-worker.js": "/Memory-Test/service-worker.js",
+    "static/css/main.03fc38f8.chunk.css.map": "/Memory-Test/static/css/main.03fc38f8.chunk.css.map"
   }
 }
